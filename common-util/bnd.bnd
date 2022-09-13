@@ -1,0 +1,6 @@
+Bundle-Name: common-util
+Bundle-SymbolicName: com.snowreplicator.common
+Bundle-Version: 1.0.0
+Export-Package: \
+    com.snowreplicator.common.constants, \
+    com.snowreplicator.common.util
